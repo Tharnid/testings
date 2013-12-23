@@ -1,0 +1,1 @@
+Testing connectivity from my Win7 vm
